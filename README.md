@@ -1,0 +1,1 @@
+This Repository is solely for Home Work for ZoomCampDE 2025. Each directory in the repo consists of a README.md (if applicable) which has commands or queries other than code files used to complete the homework of that week
