@@ -1,0 +1,1 @@
+The SQL queries and python scripts used for Week-5 HW are stored in this folder.
